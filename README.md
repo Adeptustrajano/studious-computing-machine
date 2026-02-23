@@ -12,17 +12,14 @@ El proyecto está dividido en tres minijuegos independientes:
 ### 1. 🏓 Pong
 Implementación del clásico juego arcade.
 * **Conceptos aplicados:** lenguaje ensamblador, detección de colisiones, manejo de eventos/entradas del usuario.
-* [📁 Ver código fuente del Pong](./pong)
 
 ### 2. 🧩 Senku 
 Desarrollo del tradicional juego de tablero para un solo jugador.
 * **Conceptos aplicados:** Uso de matrices/arrays bidimensionales, validación de lógica de movimientos, gestión de estados del tablero.
-* [📁 Ver código fuente del Senku](./senku)
 
 ### 3. 👑 N-Reinas
 Resolución visual del clásico problema algorítmico de colocar 'N' reinas en un tablero de ajedrez sin que se amenacen entre sí.
 * **Conceptos aplicados:** Diseño de algoritmos recursivos, *Backtracking*, optimización computacional y modelado matemático.
-* [📁 Ver código fuente de N-Reinas](./nreinas)
 
 ## 🛠️ Tecnologías y Herramientas
 * **Lenguaje de Programación:** C++, ARMv4 assembler 32-bit processor architecture
